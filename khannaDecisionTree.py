@@ -2,7 +2,7 @@
 Nikhil Khanna
 
 This is an id3 decision tree designed to classify DNA sequences (see training.txt or validation.txt)
-as to whether or not they are promoter sequences. Both a decision tree, a bagged ensemble of trees and a boosted
+as to whether or not they are promoter sequences. Both a decision tree, and a boosted
 ensemble of trees can be created, trained, and validated via this program
 """
 from random import random
